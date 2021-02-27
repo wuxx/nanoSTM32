@@ -47,18 +47,17 @@ void gpio_off()
 	GPIO_ResetBits(GPIOB, GPIO_Pin_All);
 	GPIO_ResetBits(GPIOC, GPIO_Pin_All);
 }
-
+ 
 int main(void)
 {
-	int i;
-	gpio_init();
-    
+	gpio_init(); 
+	
 	while (1) {
 		gpio_on();
-		delay_ms(10);
+		delay_ms(100); 
 
 		gpio_off();
-		delay_ms(100);
+		delay_ms(10);
 	}
 
 	return 0;

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\private\git\nanoSTM32\nanoSTM32.PcbDoc
+Date         : 2018/8/21
+Time         : 18:04:12
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 92
+    Connections routed, 92
+    Connections remaining, 0
+count : 4

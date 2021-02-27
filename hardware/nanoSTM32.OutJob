@@ -93,9 +93,9 @@ Configuration3_Name6=VisibleOrder
 Configuration3_Item6=Designator=100|Footprint=100|Description=100|Comment=100|Quantity=100|Value=100
 
 [PublishSettings]
-OutputFilePath2=G:\oss\nanoSTM32\hardware\.PDF
+OutputFilePath2=F:\private\git\nanoSTM32\nanoSTM32_V1.1\.PDF
 ReleaseManaged2=0
-OutputBasePath2=G:\oss\nanoSTM32\hardware\
+OutputBasePath2=F:\private\git\nanoSTM32\nanoSTM32_V1.1\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -172,7 +172,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=G:\oss\nanoSTM32\hardware\.PDF
+RelativeOutputPath2=F:\private\git\nanoSTM32\nanoSTM32_V1.1\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
